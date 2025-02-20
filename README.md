@@ -1,8 +1,14 @@
 # patientrecordsystem
 
-A new Flutter project.
+A new Flutter project fulfilling these requirements.
+    1.Patient Registration
+    2.View Patient Details
+    3.Edit Patient Information
+    4.Soft Delete Functionality
+    5.Data Privacy & Compliance
+    6.Advanced Search & Filtering
 
-## Getting Started
+## Setup
 
 This project is a starting point for a Flutter application.
 
