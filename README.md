@@ -14,6 +14,6 @@ This windows flutter application utilizes a php rest api to a access a database.
 
 To setup:
 
-- Download and setup the [PHP REST API](https://github.com/DreadParadox-Dash/pregsystem-api).
-- Download the Installer.
-- After installation, the program can now work. Only in Windows.
+- Download and setup the [PHP REST API](https://github.com/DreadParadox-Dash/pregsystem-api). The setup instructions is on the README page too.
+- Download the Installer and run.
+- After installation, the program can now work as long as the REST API and MySQL is running. Only for Windows.
